@@ -577,43 +577,8 @@ h1 {
       line-height: 14px;
       color: #b9c1ce; }
     .form__input--textarea {
-      padding: 17px;
-      height: 144px; }
-      .form__input--textarea::-webkit-input-placeholder {
-        font-family: "Roboto", sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 14px;
-        line-height: 14px;
-        color: #b9c1ce; }
-      .form__input--textarea::-moz-placeholder {
-        font-family: "Roboto", sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 14px;
-        line-height: 14px;
-        color: #b9c1ce; }
-      .form__input--textarea:-ms-input-placeholder {
-        font-family: "Roboto", sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 14px;
-        line-height: 14px;
-        color: #b9c1ce; }
-      .form__input--textarea::-ms-input-placeholder {
-        font-family: "Roboto", sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 14px;
-        line-height: 14px;
-        color: #b9c1ce; }
-      .form__input--textarea::placeholder {
-        font-family: "Roboto", sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 14px;
-        line-height: 14px;
-        color: #b9c1ce; }
+      height: 144px;
+      text-indent: 0; }
   .form__button {
     background: #0067df;
     -webkit-box-shadow: 0 13px 27px rgba(0, 83, 181, 0.46);
