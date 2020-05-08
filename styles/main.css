@@ -649,7 +649,8 @@ h1 {
         width: 100%; } }
 
 .contacts__phone-email {
-  width: 152px; }
+  width: 152px;
+  margin-right: 40px; }
   @media (max-width: 877px) {
     .contacts__phone-email {
       width: 100%; } }
@@ -665,6 +666,10 @@ h1 {
   @media (max-width: 877px) {
     .contacts__form {
       width: 100%; } }
+
+.contacts__phone {
+  margin-right: 30px;
+  width: 152px; }
 
 .footer {
   display: -webkit-box;
