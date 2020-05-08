@@ -376,7 +376,7 @@ h1 {
         height: 131px; } }
     .gallery__img.img-1 {
       width: 66.6%;
-      background: url("/images/photos/1.jpg") no-repeat center;
+      background: url("../images/photos/1.jpg") no-repeat center;
       background-size: cover;
       margin-right: 20px; }
       @media (max-width: 877px) {
@@ -384,23 +384,23 @@ h1 {
           width: 50%; } }
     .gallery__img.img-2 {
       width: 33.3%;
-      background: url("/images/photos/2.jpg") no-repeat center;
+      background: url("../images/photos/2.jpg") no-repeat center;
       background-size: cover; }
       @media (max-width: 877px) {
         .gallery__img.img-2 {
           width: 50%; } }
     .gallery__img.img-3 {
       width: 50%;
-      background: url("/images/photos/3.jpg") no-repeat center;
+      background: url("../images/photos/3.jpg") no-repeat center;
       background-size: cover;
       margin-right: 20px; }
     .gallery__img.img-4 {
       width: 50%;
-      background: url("/images/photos/4.jpg") no-repeat center;
+      background: url("../images/photos/4.jpg") no-repeat center;
       background-size: cover; }
     .gallery__img.img-5 {
       width: 33.3%;
-      background: url("/images/photos/5.jpg") no-repeat center;
+      background: url("../images/photos/5.jpg") no-repeat center;
       background-size: cover;
       margin-right: 20px; }
       @media (max-width: 877px) {
@@ -408,7 +408,7 @@ h1 {
           width: 50%; } }
     .gallery__img.img-6 {
       width: 66.6%;
-      background: url("/images/photos/6.jpg") no-repeat center;
+      background: url("../images/photos/6.jpg") no-repeat center;
       background-size: cover; }
       @media (max-width: 877px) {
         .gallery__img.img-6 {
