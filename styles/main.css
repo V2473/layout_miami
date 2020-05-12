@@ -1155,7 +1155,11 @@ h1 {
 
 .link {
   text-decoration: none;
-  color: #0075ff; }
+  color: #0075ff;
+  -webkit-transition: text-shadow 0.3s;
+  transition: text-shadow 0.3s; }
+  .link:hover {
+    text-shadow: 0 5px 8px rgba(0, 83, 181, 0.46); }
 
 .header {
   display: -webkit-box;
